@@ -1,2 +1,0 @@
-# FinChat
-CFA知识
